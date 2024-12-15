@@ -107,8 +107,6 @@ This repository showcases a Power BI project that analyzes global financial perf
 This project highlights the efficiency of **Power BI** in delivering actionable insight for financial analysis. The dashboards provide a comprehensive view of sales performance, profit distribution, and the impact of discounts. Businesses can leverage these insights to optimize pricing strategies, identify high-performing segments, and drive profitability.
 
 ---
-
-
 ## Contact
 **Author**: Anisha Paul  
 **LinkedIn**: [linkedin.com/in/paulanisha](https://www.linkedin.com/in/paulanisha)
