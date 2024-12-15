@@ -109,8 +109,6 @@ This project highlights the efficiency of **Power BI** in delivering actionable 
 ---
 
 
----
-
 ## Contact
 **Author**: Anisha Paul  
 **LinkedIn**: [linkedin.com/in/paulanisha](https://www.linkedin.com/in/paulanisha)
